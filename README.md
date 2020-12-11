@@ -2,7 +2,7 @@
 
 From where do I start appium? Under ~/.npm-global/lib/node_modules  by entering in the command line ppium
 
-test-ai-classifier  is awell installed under ~/.npm-global/lib/node_modules
+test-ai-classifier  is as well installed under ~/.npm-global/lib/node_modules
 
 I run my python script from ~/Public/appium_classifier_ai   doing ./aiclassifier.py
 
