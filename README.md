@@ -11,4 +11,4 @@ I get the following warning *2020-12-11 01:34:41.265462: I tensorflow/core/platf
 { find: [Getter] }
 *
 
-The stacktraces after running the script are: #appium stacktrace.pdf and #script error.pdf 
+The stacktraces after running the script are: # appium stacktrace.pdf and # script error.pdf 
