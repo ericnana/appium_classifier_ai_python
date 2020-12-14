@@ -3,6 +3,7 @@
 Pre-requisites:
 Install Android SDK and configure ANDROID_HOME
 Install Java SDK and configure JAVA_HOME
+
 -------------------------------------------------------------------
 
 
@@ -20,7 +21,7 @@ npm=6.13.4
 test-ai-classifies=1.0.0
 
 Put this at the enad of your bashrc
-# Nodejs
+#Nodejs
 VERSION=v12.14.0
 DISTRO=linux-x64
 export PATH=/usr/local/lib/node-$VERSION-$DISTRO/bin:$PATH
@@ -47,6 +48,8 @@ If you want to do it globally just do the following:
 npm install -g appium --drivers=xuitest,uiautomator2
 npm install -g wd  --> in the command line start appium
 npm install -g appium-doctor --> in the command line start appium-doctor
+
+
 -------------------------------------------------------------------
 
 
