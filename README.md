@@ -20,7 +20,7 @@ node = 12.14.0,
 npm=6.13.4,
 test-ai-classifies=1.0.0
 
-Put this at the enad of your bashrc
+Put the following at the end of your bashrc
 #Nodejs
 VERSION=v12.14.0
 DISTRO=linux-x64
