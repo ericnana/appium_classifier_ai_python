@@ -21,6 +21,7 @@ npm=6.13.4,
 test-ai-classifies=1.0.0
 
 Put the following at the end of your bashrc
+
 #Nodejs
 
 VERSION=v12.14.0
