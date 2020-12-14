@@ -80,8 +80,8 @@ If not, it means everything is good, just make sure you restarted the appium ser
 
 -------------------------------------------------------------------
 
-Create your python class using your favorite IDE (Android Studio in my case)
-Go to your command line and start appium(appium -a 127.0.0.1 -p 4723)
-Check as well if appium-doctor does not show any error. Start it from where you installed it
-Connect your device or start your simulator from your IDE
-Go to command line and start your python script. In my case I used python3 for the shebang but working with python 2.7
+Create your python class using your favorite IDE (Android Studio in my case).
+Go to your command line and start appium(appium -a 127.0.0.1 -p 4723).
+Check as well if appium-doctor does not show any error. Start it from where you installed it.
+Connect your device or start your simulator from your IDE.
+Go to command line and start your python script. In my case I used python3 for the shebang but working with python 2.7.
