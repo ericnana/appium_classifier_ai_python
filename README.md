@@ -8,7 +8,7 @@ Install Java SDK and configure JAVA_HOME
 
 
 
-Environment
+Environment:
 
 Ubuntu 20.04
 Tensorflow=2.3.1
