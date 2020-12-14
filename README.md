@@ -10,14 +10,14 @@ Install Java SDK and configure JAVA_HOME
 
 Environment:
 
-Ubuntu 20.04
-Tensorflow=2.3.1
-Tensorflow-estimator=2.3.0
-Tensorflow-gpu=2.2.0
-python=2.7.18
-appium = 1.19.1
-node = 12.14.0
-npm=6.13.4
+Ubuntu 20.04,
+Tensorflow=2.3.1,
+Tensorflow-estimator=2.3.0,
+Tensorflow-gpu=2.2.0,
+python=2.7.18,
+appium = 1.19.1,
+node = 12.14.0,
+npm=6.13.4,
 test-ai-classifies=1.0.0
 
 Put this at the enad of your bashrc
