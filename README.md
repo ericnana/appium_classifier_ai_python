@@ -35,7 +35,8 @@ On the command line, in your home directory, create a directory for global insta
 
 Configure npm to use the new directory path: npm config set prefix '~/.npm-global' 
 
-In your prefer text editor, open or create a  ~/.profile file and add this line:  export PATH=~/.npm-global/bin:$PATH
+In your prefer text editor, open or create a  ~/.profile file and add this line: 
+    export PATH=~/.npm-global/bin:$PATH
 
 On the command line, update your system variables: source ~/.profile
 
