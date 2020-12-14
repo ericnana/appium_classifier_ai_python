@@ -22,8 +22,11 @@ test-ai-classifies=1.0.0
 
 Put the following at the end of your bashrc
 #Nodejs
+
 VERSION=v12.14.0
+
 DISTRO=linux-x64
+
 export PATH=/usr/local/lib/node-$VERSION-$DISTRO/bin:$PATH
 
 -------------------------------------------------------------------
