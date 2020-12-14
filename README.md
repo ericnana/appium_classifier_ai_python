@@ -41,7 +41,7 @@ On the command line, update your system variables: source ~/.profile
 
 To test your new configuration, install a package globally without using sudo: npm install -g jshint
 
-Instead of steps 2-4, you can use the corresponding ENV variable (e.g. if you don't want to modify ~/.profile): NPM_CONFIG_PREFIX=~/.npm-global
+Instead of steps 2-4, you can use the corresponding ENV variable (e.g. if you don't want to modify ~/.profile): NPM_CONFIG_PREFIX=/home/user/.npm-global
 
 npm install appium
 npm install wd  --> in the command line start appium
