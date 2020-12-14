@@ -50,9 +50,9 @@ npm install appium-doctor --> in the command line start appium-doctor
 Do not forget to set the path of appium in your bashrc (export NODE_PATH=~/.npm-global/lib/node_modules/appium:$PATH)
 
 If you want to do it globally just do the following:
-npm install -g appium --drivers=xuitest,uiautomator2
-npm install -g wd  --> in the command line start appium
-npm install -g appium-doctor --> in the command line start appium-doctor
+#npm install -g appium --drivers=xuitest,uiautomator2
+#npm install -g wd  --> in the command line start appium
+#npm install -g appium-doctor --> in the command line start appium-doctor
 
 
 -------------------------------------------------------------------
