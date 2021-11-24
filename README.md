@@ -1,3 +1,6 @@
+It allows you to find Appium elements using a semantic label (like "cart" or "microphone" or "arrow") instead of having to dig through your app hierarchy
+And the same labels can be found on different apps as well with different designs having almost the same shape
+
 # Steps
 
 Pre-requisites:
